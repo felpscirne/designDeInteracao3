@@ -17,7 +17,7 @@ Este projeto permite consultar feriados nacionais de 2024 e informações de CNP
 
 Você pode acessar a aplicação diretamente através do GitHub Pages no seguinte link:
 
-[Consulta de Feriados e CNPJ](https://felpscirne.github.io/seu-repositorio/)
+[Consulta de Feriados e CNPJ](https://felpscirne.github.io/designDeInteracao3/)
 
 ## Estrutura do Projeto
 
