@@ -47,7 +47,7 @@ function displayApiResults(data, queryType) {
             </ul>
         `;
     } else if (queryType === 'cnpj') {
-        // Desestruturação dos dados do CNPJ
+        //**Destructuring**
         const {
             razao_social,
             nome_fantasia,
